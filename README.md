@@ -1,2 +1,2 @@
 # Hitbox-indicator
-A browser extension to mod an online game. This program was created by combining footage from SmoothDude's videos.
+This is an extension for Miniblox that adds the functionality of the Minecraft "combat hitbox" mod. Clicking the extension allows you to configure the keybind for opening the mod's settings.
